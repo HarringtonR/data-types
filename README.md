@@ -13,12 +13,19 @@ You'll tackle Part 1 on Tuesday, and then Wednesday's lesson will equip you to t
 
 ## 🚀 Completion looks like:
 
-[all the steps they have to follow]
+- You've answered the questions in `datatypes/readme`.
+- `datatypes/starter.js` has been filled out in accordance with the instructions.
+- You have a file named `u01d03.js` in the `objects-arrays` directory that has been filled out in accordance with the instructions.
+
+## 🚀 Pull request template!!
+
+**DO NOT** slack the IAs the link to this homework. Instead, you'll submit a pull request. **Your pull request should follow [this template]()!**
 
 ## 🚀 Your homework submission should include:
 
 - A pull request created on _this repo_.
-- [any additional steps]
-- Completion, comfort, wins, losses, questions... you know the drill.
+- Your pull request follows the template linked above!
 
 ## This homework is due 🚨 11PM ON WEDNESDAY NIGHT 🚨
+
+(Unless we tell you otherwise, all homeworks assigned Tuesday will be due Wednesday night.)

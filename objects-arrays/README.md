@@ -1,3 +1,5 @@
+### Do this part Wednesday night!!
+
 # Objects & arrays practice!!
 
 In this directory, create a new file called `u01d03.js`. You'll do all your work in this file. Remember, you can test your work by typing `node u01d03.js` in the terminal.
