@@ -19,7 +19,7 @@ You'll tackle Part 1 on Tuesday, and then Wednesday's lesson will equip you to t
 
 ## 🚀 Pull request template!!
 
-**DO NOT** slack the IAs the link to this homework. Instead, you'll submit a pull request. **Your pull request should follow [this template]()!**
+**DO NOT** slack the IAs the link to this homework. Instead, you'll submit a pull request. **Your pull request should [look like this](https://git.generalassemb.ly/wdi-nyc-delorean/HW_U01_D02_Datatypes-Objects-Arrays/pull/1)!!!**  ([Here's a handy template](https://git.generalassemb.ly/raw/wdi-nyc-delorean/delorean-students/master/pull-request-template.md?token=AAARY03kINlOYHyjMyoLEYjxhv8tPI5Jks5ZVoz7wA%3D%3D) for you to follow.)
 
 ## 🚀 Your homework submission should include:
 
